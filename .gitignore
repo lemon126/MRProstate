@@ -1,0 +1,30 @@
+/build/
+/out/
+/dist/
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+*.class
+/logs
+*.log
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+/venv/
+env/
+ENV/
+.venv/
+
+.idea/
+
+# VSCode
+.vscode/
+
+lesion_cls/result/
+result/
